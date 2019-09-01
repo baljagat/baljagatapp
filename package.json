@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "baljagat",
   "version": "3.7.1",
-  "description": "The official app for Moodle.",
+  "description": "The official app for baljagat.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "baljagat.in.",
+    "email": "baljagat@gmail.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
